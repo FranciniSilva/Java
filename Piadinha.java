@@ -1,15 +1,17 @@
 package com.francini.cursojava;
 
-public class HelloWorld {
+public class Piadinha {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("Hello World");
+		int Oct31 = 031;
+		int Dec25 = 25;
+		
+		System.out.println(Oct31 == Dec25);
 
 	}
-	
-}
 
+}
